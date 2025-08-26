@@ -1,0 +1,74 @@
+
+______________________________________________________________________________________________________________
+
+“Practical background in Field Systems, Live Signal Environments, and Independent Market Operations.”
+
+______________________________________________________________________________________________________________
+
+Education:
+
+2002 - 2006    Received a 3-year Advanced Technologist Diploma in Computer Electronics
+2008 - 2012    Served and completed a 4-year Apprenticeship at CNR Railway Signals & Communications, 4 tours from CNR of Written and Hands-on testing
+
+Time:
+
+- 3 years Servicing within the United States and Canada, Industrial packaging equipment 
+
+  1 Month to Annuals Testing for 10+ years at :
+- Battery sites, Relay sites, Train Turnouts, Block Signals, Motion and GCP controlled Railway Crossings
+- Central Traffic Control ( CTC ) bungalows
+- Switch Adjustment on GRS and US&S switches 
+- Developed signal test sheets for cut over days and trouble calls
+
+- Specialty working alongside Remote Battery systems on overhead + buried wires and the trouble calls generated around them
+- Relay based central traffic control system testing and maintenance calls
+- GCP and GEO bucket gang installations and maintenance calls
+- Remote site power off and public Safety Interlock testing 
+- Heavy understanding of Standards, Codes of Practice and General Instructions on railway
+- Worked in 7 man Self Directed Unit ( SDU ) to arrange testing and trouble call resolutions for signal department of railway
+- Maintained on-call status for nearly 10 years as a Railway Signals & Communications Maintainer on shared high speed and freight rail
+- Helped Maintain 80 Miles of buried and overhead power, fiber and communication cables
+- Radio communications and track permit systems daily, on trouble calls at night and alone
+- CROR and timetable instruction in class testing for many years
+- Work on 100+ man mega rail gangs as signal support
+- Predictive Maintenance troubleshooting before it was called that
+
+- Independently trading for profit for the past 5 years
+- day trading, option spreads, delta hedging and selling premium
+- modeling of custom advanced premium strategies 
+- live trading of logged and back tested strategies
+
+- Building apps / coding in python, HTML and working on C# 
+- ML models in the pipeline for predictive maintenance unit PIRSMU 
+- Working on Edge Device with pre trained AI modeling 
+- logging time with AI
+
+______________________________________________________________________________________________________________
+
+
+Projects in development or near completion phase:
+
+Project				Description								Applied Skills
+
+PIGOS UI 			Premium band calculator, alert app and PRISMOR theory			python, HTML, option premiums, market logic
+
+Batt test app			Crossing battery 1 month voltage and current app 			python, HTML, voltage and current, batteries		
+
+PSR Signal manager's edge	Predictive Maintenance calculator					spreadsheet science and electrical safety standards	
+	
+BungCam	or PIRSMU		Edge device and IR thermal camera on relay with ML platform		Raspberry pi, IR, relays, cloud machine learning platforms
+
+
+______________________________________________________________________________________________________________
+
+
+“A lot of what shaped my work habits came from the railroad--
+there’s no margin for sloppiness when lives and logistics depend on your signal being right. 
+
+I handled hundreds of real-world issues under time pressure, on-call. 
+That kind of environment teaches you to work precisely, work fast, and stay calm even when the system’s down. 
+It’s stuck with me since.”
+
+______________________________________________________________________________________________________________
+
+
